@@ -1,0 +1,5 @@
+numpy
+numba
+scipy
+h5py
+ont-fast5-api
